@@ -22,6 +22,7 @@ function Header() {
             </div>
 
             <Image
+                alt="Logo"
                 className="object-contain"
                 src="https://links.papareact.com/ua6"
                 width={200}

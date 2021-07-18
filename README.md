@@ -1,5 +1,6 @@
 # What new things learned doing this project?
 
-## Lazy Loading
+### Lazy Loading
+### Tailwind CSS
 
-## Tailwind CSS
+### [Click Here](https://movies-showcase-app.vercel.app/) to see the app.
